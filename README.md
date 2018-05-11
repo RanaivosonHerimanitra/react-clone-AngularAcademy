@@ -6,4 +6,4 @@ A react implementation of the application developed by Laurent Duveau at Angular
 * 02 ways databinding implemented
 
 
-!()[snapshot.png]
+![][snapshot.png]
