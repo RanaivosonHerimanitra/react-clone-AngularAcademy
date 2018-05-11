@@ -1,6 +1,6 @@
 import React, {Component} from "react"
 import '../style.css'
-import ProductDetail from "./ProductDetail";
+
 export default class ProductList extends Component {
 
   
